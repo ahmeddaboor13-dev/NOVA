@@ -1,0 +1,9 @@
+{
+  "name": "nova",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cordova": "^13.0.0",
+    "cordova-android": "14.0.1"
+  }
+}
